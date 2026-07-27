@@ -1,0 +1,15 @@
+{
+    "deudores": [],
+    "fechas": [
+        {
+            "id": "ab123",
+            "año": "2026",
+            "mes": "4",
+            "dia": "21"
+        }
+    ],
+    "sancionados": [],
+    "prestamos": [
+        "'Caperucita roja' - Prestado a: Juan M."
+    ]
+}

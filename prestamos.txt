@@ -1,0 +1,3 @@
+yaguno - Libro que adquirió: 5678 (ID: 8899)
+Jose - Libro que adquirió: 1001 noches (ID: ab1243)
+Tony - Libro que adquirió: Kafka (ID: 34)
