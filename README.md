@@ -1,10 +1,10 @@
-==========Readme===========
-Para acceder al programa necesitas ingresar el usuario y la contraseña.
+                                           ==========Readme===========
+                        Para acceder al programa necesitas ingresar el usuario y la contraseña.
 
 Usuario: Carl
 Contraseña:1234
 
-======Listas globales======
+                                           ======Listas globales======
 personas_sancionadas = [] #Lista de personas que no pueden ser prestador libros.
 libros_prestados = [{}] #Matriz donde almacena el título, id, y nombre de quien se lo prestaron
 historial_dia = [] #almance los nuevos prestamos para mostrar como un reporte del día.
