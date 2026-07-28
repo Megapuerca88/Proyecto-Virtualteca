@@ -27,5 +27,3 @@ def ejecutar_menu() #
 def registrar_libro(biblioteca) #
 def mostrar_libros(biblioteca) #
 def menu():
-def cambiar: Esta funcion hace que un registro ya establecido pueda ssr cambiado para eliminarlo del registro ya sea porque cumplio con el plazo o otros motivos,
-def ver_resumen: Permite ver el resumen de personas sancionadas y personas que solicitaron la fecha, muestra su ID y su fecha.
