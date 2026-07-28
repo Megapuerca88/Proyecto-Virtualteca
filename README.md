@@ -1,5 +1,5 @@
                                            ==========Readme===========
-                        Para acceder al programa necesitas ingresar el usuario y la contraseña.
+                       Para acceder al programa necesitas ingresar el usuario y la contraseña.
 Usuario: Carl
 Contraseña:1234
                                            ======Listas globales======
@@ -25,4 +25,3 @@ def ejecutar_menu() #
 def registrar_libro(biblioteca) #
 def mostrar_libros(biblioteca) #
 def menu():
-
