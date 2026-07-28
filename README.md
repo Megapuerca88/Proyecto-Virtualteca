@@ -25,4 +25,3 @@ def ejecutar_menu() #
 def registrar_libro(biblioteca) #
 def mostrar_libros(biblioteca) #
 def menu():
-
